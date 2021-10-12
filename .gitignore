@@ -86,3 +86,4 @@ venv.bak/
 
 # others
 *.csv
+.DS_Store
